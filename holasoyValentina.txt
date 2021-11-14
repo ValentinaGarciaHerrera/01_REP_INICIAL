@@ -1,5 +1,7 @@
 Hola Git!
 
-Soy Valentina. ¿Qué tal?git status
+Soy Valentina. Â¿QuÃ© tal?git status
 
 Saludos.
+
+AdiÃ³s
